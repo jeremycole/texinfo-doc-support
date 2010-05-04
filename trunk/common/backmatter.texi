@@ -1,0 +1,4 @@
+@include support/common/license-lgpl-v2.1.texi
+@include support/common/contact.texi
+@include support/common/index-vr.texi
+@include support/common/index-cp.texi

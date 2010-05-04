@@ -1,0 +1,6 @@
+@node Contacting the author
+@unnumbered Contacting the author
+@cindex author, contacting
+@cindex contacting the author
+
+This is a stub of a contact information section which you shouldn't use!
