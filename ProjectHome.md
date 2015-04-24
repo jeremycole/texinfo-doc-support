@@ -1,0 +1,1 @@
+This project provides a set of files that are meant to be checked out into your project's docs directory using an svn:externals as "support".  It provides some helpers to convert images and format documentation for printing.
